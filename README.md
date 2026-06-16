@@ -1,8 +1,3 @@
-# 🍽️ Potta Palga or పొట్ట పల్గ(in Telugu language)  
-### మెక్కి పొండి రా బాబు  
-*Where taste meets tech.*
-
----
 
 ## 🔥 Highlights
 
